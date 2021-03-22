@@ -51,6 +51,7 @@ export default {
 .mainflex{
   display: flex;
   display: -webkit-flex;
+  width: 100%;
   flex-direction: column;
   flex-wrap: nowrap;
   align-items: center;

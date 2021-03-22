@@ -30,6 +30,7 @@ export default {
   border: 0px;
 }
 body{
+  width: 100%;
   border: 0px;
   margin: 0px;
 }
